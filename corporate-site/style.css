@@ -1,3 +1,13 @@
-.red{
-    color:red;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.top-img{
+    background-image: url("imgs/img01.jpg");
+}
+.top-text{
+    text-align: center;
+    padding: 250px 0;
 }
